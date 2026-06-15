@@ -34,14 +34,6 @@ I am a Computer Science Engineering student passionate about transforming raw da
 * Used Power BI visualizations for data storytelling.
 * Improved understanding of business performance through analytics.
 
-#### 🤖 AI Civic Complaint Management System
-
-* Developed an AI-powered complaint management system.
-* Implemented BERT for complaint classification.
-* Used ResNet for image-based issue detection.
-* Built priority prediction using XGBoost.
-* Integrated a chatbot for complaint registration and tracking.
-
 ### 💼 Experience
 
 **Data Analyst Intern – Inspire Softech Solution**
